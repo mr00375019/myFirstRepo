@@ -1,1 +1,1 @@
-First time going to use git 
+First time going to use git . I am making some changes to check the "git diff command"
