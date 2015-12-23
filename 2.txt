@@ -1,0 +1,3 @@
+Hello this is second file.. 
+I am mudassar Rana and i am learning , how to push file in Git Hub
+
